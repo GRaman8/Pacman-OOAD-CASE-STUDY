@@ -1,1 +1,4 @@
 # Pacman-OOAD-CASE-STUDY
+The use of computer learning games in education has significantly solved the problems of Game Generation in school. Therefore, using computer games in school increase students' motivation, and develops positive attitudes toward many subjects. In particular, using Star UML we will be able to understand the workings of the game The Pacman and its game structure. This paper describes how the game Pacman is constructed and designed using the concepts of OOAD. This learning game is validated by classroom experimentation.
+
+StarUML is a software engineering tool for system modelling using the Unified Modeling Language, as well as Systems Modeling Language, and classical modelling notations. With the help of Star UML software, we will be able to understand the concepts of OOAD with the case study of the game Pacman.
